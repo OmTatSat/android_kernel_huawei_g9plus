@@ -1,0 +1,1 @@
+cmd_drivers/mmc/card/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/mmc/card/built-in.o drivers/mmc/card/mmc_block.o drivers/mmc/card/ffu.o drivers/mmc/card/mmc_health_diag.o 

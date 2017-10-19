@@ -1,0 +1,1 @@
+cmd_drivers/hwusb/hw_gadget/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/hwusb/hw_gadget/built-in.o drivers/hwusb/hw_gadget/hw_usb_rwswitch.o drivers/hwusb/hw_gadget/hw_usb_sync_host_time.o 

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/atmel_mxt_ts.o drivers/input/touchscreen/ft5x06_ts.o drivers/input/touchscreen/gen_vkeys.o drivers/input/touchscreen/maxim_sti.o 

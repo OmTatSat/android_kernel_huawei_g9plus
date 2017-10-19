@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/vidc/vmem/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/media/platform/msm/vidc/vmem/built-in.o drivers/media/platform/msm/vidc/vmem/vmem.o drivers/media/platform/msm/vidc/vmem/vmem_debugfs.o 

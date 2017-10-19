@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/bluetooth/built-in.o drivers/bluetooth/bluetooth-power.o drivers/bluetooth/device_feature.o 

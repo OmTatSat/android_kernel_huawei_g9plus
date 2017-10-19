@@ -1,0 +1,1 @@
+cmd_drivers/misc/hwboot_fail/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/hwboot_fail/built-in.o drivers/misc/hwboot_fail/hwboot_fail.o drivers/misc/hwboot_fail/hwboot_time_out.o 

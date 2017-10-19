@@ -1,0 +1,1 @@
+cmd_drivers/huawei_platform/sensor/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/huawei_platform/sensor/built-in.o drivers/huawei_platform/sensor/hallsensor/built-in.o drivers/huawei_platform/sensor/lpsensor/built-in.o drivers/huawei_platform/sensor/hw_sensor_info.o 

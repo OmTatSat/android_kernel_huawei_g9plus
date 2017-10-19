@@ -1,0 +1,1 @@
+cmd_drivers/misc/huawei_reset_detect/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/huawei_reset_detect/built-in.o drivers/misc/huawei_reset_detect/huawei_reset_detect.o drivers/misc/huawei_reset_detect/hw_log_mem.o 

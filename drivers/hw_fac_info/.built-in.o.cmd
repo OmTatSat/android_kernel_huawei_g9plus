@@ -1,0 +1,1 @@
+cmd_drivers/hw_fac_info/built-in.o :=  /home/sat/android1/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o drivers/hw_fac_info/built-in.o drivers/hw_fac_info/hw_fac_info.o drivers/hw_fac_info/config_interface.o 
